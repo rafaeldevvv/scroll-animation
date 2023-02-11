@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="burguer-menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="true"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="true"
+     shape-rendering="auto"
+     inkscape:zoom="12.282388"
+     inkscape:cx="20.028678"
+     inkscape:cy="20.028678"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.292288"
+       id="rect887"
+       width="12.21637"
+       height="1.9483001"
+       x="-6.0429258"
+       y="6.4900479"
+       ry="0.93569672"
+       transform="matrix(-0.71039524,0.70380295,0.71039524,0.70380295,0,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.292288"
+       id="rect887-4"
+       width="12.21637"
+       height="1.9483001"
+       x="1.4933211"
+       y="-0.8625536"
+       ry="0.93569672"
+       transform="matrix(0.70380296,0.71039524,0.70380296,-0.71039524,0,0)" />
+  </g>
+</svg>
